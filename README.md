@@ -9,7 +9,8 @@ Static page created to help me learn React
 
 ---
 ## Project Structure
-project-root/
+```
+react-facts/
 ├── public/
 ├── src/
 │ ├── assets/
@@ -21,12 +22,25 @@ project-root/
 ├── index.html
 ├── package.json
 └── vite.config.js
+```
 
 ---
 ## Dependencies
 
 ### Main Dependencies
-- react
+- **react** - 19.1.1
+- **react-dom** - 19.1.1
+
+### Dev Dependencies
+- **vite** - 7.0.6
+- **@vitejs/plugin-react** - 4.7.0
+- **eslint** - 9.32.0
+- **@eslint/js** - 9.32.0
+- **eslintj-plugin-react-hooks** - 5.2.0
+- **esline-plugin-react-refresh** - 0.4.20
+- **globals** - 16.3.0
+- **@types/react** - 19.1.9
+- **@types/react-dom** - 19.1.7
 
 
 ## Running & Building
