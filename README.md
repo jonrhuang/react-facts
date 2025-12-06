@@ -1,5 +1,5 @@
 # "React Facts" Static Page
-Static page created to help me learn React
+Static page I created while I learn React
 
 ## Tech Stack
 - **Vite**
