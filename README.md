@@ -1,10 +1,10 @@
 # "React Facts" Static Page
-Static page I created while I learn React
+Static page about simple facts using React framework. Following Scrimba "Learn React" course 
 
 ## Tech Stack
 - **Vite**
 - **JavaScript**
-- **Framework**: React
+- **Library**: React
 - **Package Manager**: npm
 
 ---
