@@ -1,5 +1,5 @@
 # "React Facts" Static Page
-Static page about simple facts using React framework. Following Scrimba "Learn React" course 
+Static page about simple facts using React framework. This project was made following Scrimba "Learn React" course
 
 ## Tech Stack
 - **Vite**
